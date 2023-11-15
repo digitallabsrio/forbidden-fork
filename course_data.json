@@ -1,0 +1,29 @@
+{
+  "course_name": "Building a Serverless App Platform on Kubernetes - Learn Interactively",
+  "course_overview": "​​Businesses are modernizing and adopting multi-cloud approaches to deliver services. This shift in application deployment has given rise to containerization and Kubernetes for the deployment, management, and scaling of containerized applications. \n\nThis course introduces you to serverless computing and shows you how to build serverless applications using Knative. It teaches CI/CD using Tekton and shows you how to build pipelines triggered by GitHub events. You will create a pipeline that builds container images using Build and, later, Cloud Native Buildpacks. \n\nIn the last part of the course, you will build a web application that integrates with GitHub using a GitHub App, and triggers application build and deployment in response to GitHub events.",
+  "course_folder": "building a serverless app platform on kubernetes",
+  "course_lessons": [
+    "0-what to expect in this course",
+    "1-kubernetes overview and architecture",
+    "2-the serverless landscape",
+    "3-setting up the kubernetes cluster",
+    "4-setting up knative serving",
+    "5-deploy your first application",
+    "6-autoscaling services",
+    "7-wrap up and quiz",
+    "8-introduction to ci cd and tekton",
+    "9-tekton installation",
+    "10-configure the container registry credential and serviceaccount",
+    "11-the build and deploy tasks",
+    "12-create the tekton pipeline",
+    "13-wrap up and quiz",
+    "14-eventlistener and rbac configuration",
+    "15-implement triggers",
+    "16-listen for events from github",
+    "17-wrap up and quiz",
+    "18-docker and cloud native buildpacks",
+    "19-using buildpacks in tekton pipelines",
+    "20-wrap up and quiz"
+  ],
+  "repo_name": "forbidden-fork"
+}
